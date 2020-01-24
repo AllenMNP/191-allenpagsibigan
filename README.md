@@ -1,4 +1,4 @@
- This is a README.md created from the 3-way-merge exercise
+ <!-- This is a README.md created from the 3-way-merge exercise
 
  What does git log --oneline --graph --all is
  * 021a493 (HEAD -> master) Added readme
@@ -110,4 +110,4 @@
    (use "git restore <file>..." to discard changes in working directory)
          modified:   basic-commits/newfile.txt
 
- no changes added to commit (use "git add" and/or "git commit -a")
+ no changes added to commit (use "git add" and/or "git commit -a") -->
